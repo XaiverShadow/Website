@@ -1,0 +1,39 @@
+body {
+    background-color: #b0bdc2;
+    font-family: Arial, sans-serif;
+    color: black;
+    text-align: center;
+}
+.header {
+    color: #add8e6;
+    font-size: 24px;
+    font-weight: bold;
+}
+.subheader {
+    color: #9370db;
+    font-size: 20px;
+}
+.countdown {
+    display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 20px;
+        }
+        .countdown-box {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .introduction {
+            margin-top: 20px;
+        }
+        .image-container {
+            text-align: center;
+        }
+        .image-container img {
+            max-width: 100%;
+            height: auto;
+        }
